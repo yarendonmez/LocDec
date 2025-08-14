@@ -1,0 +1,5 @@
+{
+  "name": "LocDec",
+  "description": "An AI-powered application that determines the geographic location of an uploaded image and provides a detailed justification for the analysis.",
+  "requestFramePermissions": []
+}
